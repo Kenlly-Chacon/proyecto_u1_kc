@@ -1,0 +1,15 @@
+h1,h2,h3 {
+  color: blue;
+  background-color: green;
+}
+
+#id_titulo {
+  color: yellow;
+  background-color: brown;
+}
+
+/*clase*/
+.clase_titulos{
+  color: crimson;
+  background-color: black;
+}
