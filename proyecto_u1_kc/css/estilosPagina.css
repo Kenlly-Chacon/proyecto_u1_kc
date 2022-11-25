@@ -1,0 +1,29 @@
+h1 {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+h2 {
+  font: 12px sans-serif;
+}
+
+header, nav, section, footer, aside, article{
+  display: block;
+}
+
+body {
+  text-align: center;
+  background-color: gray;
+}
+
+.cabecera {
+  background: white;
+  border: 1px solid darkslategrey;
+  padding: 20px;
+}
+
+/*anidacion de estilos para hijos*/
+.cabecera h1 {
+  text-align: left;
+}
+
