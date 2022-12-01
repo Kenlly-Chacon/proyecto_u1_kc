@@ -27,8 +27,6 @@ img[src*="dofus"]{
   height: 500px;
 }
 
-
-
 /*seudo-clase o evento*/
 label:hover{
   color:green;

@@ -27,3 +27,57 @@ body {
   text-align: left;
 }
 
+.menu li {
+  list-style: none;
+  display: inline-block;
+  border: 1px solid black;
+  padding: 7px;
+  margin: 5px;
+}
+
+.menu {
+  background-color: burlywood;
+  border: 1px solid black;
+  text-align: left;
+}
+
+.formulario{
+  width : 900px;
+  border: double black;
+  margin: 15px auto;
+}
+
+.seccion{
+  margin: 20px;
+  width: 500px;
+  float: left;
+}
+
+.referencias{
+  border: 1px solid black;
+  width: 200px;
+  margin: 20px;
+  float: right;
+}
+
+article{
+  border: 1px solid black;
+  padding: 20px;
+  margin-bottom: 25px;
+  /*margin:25px*/
+  background: darkseagreen;
+}
+
+article footer{
+  text-align: right;
+}
+
+.pie {
+  clear: both;
+}
+
+img{
+  width: 400px;
+  display: block;
+  margin: 20px auto;
+}
