@@ -49,15 +49,15 @@ body {
 
 .seccion{
   margin: 20px;
-  width: 500px;
+  width: 600px;
   float: left;
 }
 
 .referencias{
   border: 1px solid black;
-  width: 200px;
-  margin: 20px;
-  float: right;
+  width: 250px;
+  margin: 50px 1px;
+  float: left;
 }
 
 article{
@@ -66,6 +66,11 @@ article{
   margin-bottom: 25px;
   /*margin:25px*/
   background: darkseagreen;
+}
+blockquote{
+  border: 1px solid black;
+  width: 200px;
+  margin: 10px auto 40px auto;
 }
 
 article footer{
