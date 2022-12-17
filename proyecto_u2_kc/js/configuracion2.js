@@ -17,7 +17,35 @@ console.log(Vue)
 const app = Vue.createApp({
   data(){
     return{
-      arreglo: frases
+      arreglo: frases,
+      // fraseNueva : 'Ingrese'
+      fraseNueva : null
+    }
+  },
+  methods:{
+    agregarFrase(charCode){
+      console.log('Mensaje')
+      console.log(charCode)
+
+      if(charCode !== 13) return //13 es el enter
+
+      const fraseObjetoNueva = {
+        texto: this.fraseNueva,
+        autor: 'Kenlly'
+      }
+
+      this.arreglo.unshift(fraseObjetoNueva)
+    },
+    agregarFraseModificador(event){
+      console.log(' desestructurado')
+      console.log(event.charCode)
+
+      const fraseObjetoNueva = {
+        texto: this.fraseNueva,
+        // autor: 'Kenlly'
+      }
+
+      this.arreglo.unshift(fraseObjetoNueva)
     }
   }
 })
