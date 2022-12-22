@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9780cafc-d27d-467c-8b82-97171d4f294a" name="Changes" comment="taller 13">
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/assets/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/assets/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/components/Contador.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/components/TheWelcome.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/components/WelcomeItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/components/icons/IconCommunity.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/components/icons/IconDocumentation.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/components/icons/IconEcosystem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/components/icons/IconSupport.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/components/icons/IconTooling.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="taller13" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IvQRpTgt09pO13MkRj9RUgzf3p" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Intel/Kenlly/2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Intel\Kenlly\2" />
+      <recent name="D:\Intel\Kenlly\2\proyecto_u2_kc\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Intel\Kenlly\2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:5173">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9780cafc-d27d-467c-8b82-97171d4f294a" name="Changes" comment="" />
+      <created>1671059572330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671059572330</updated>
+      <workItem from="1671059573811" duration="2852000" />
+      <workItem from="1671065415738" duration="54000" />
+      <workItem from="1671145648815" duration="6165000" />
+      <workItem from="1671285952518" duration="2591000" />
+      <workItem from="1671288567309" duration="6000" />
+      <workItem from="1671288645092" duration="3563000" />
+      <workItem from="1671538900707" duration="43000" />
+      <workItem from="1671538962845" duration="32000" />
+      <workItem from="1671539754412" duration="148000" />
+      <workItem from="1671540341766" duration="15000" />
+      <workItem from="1671540391273" duration="3000" />
+      <workItem from="1671664047057" duration="144000" />
+      <workItem from="1671664429990" duration="1852000" />
+      <workItem from="1671668158211" duration="160000" />
+      <workItem from="1671668342821" duration="209000" />
+      <workItem from="1671668579043" duration="451000" />
+      <workItem from="1671669090116" duration="219000" />
+      <workItem from="1671669414312" duration="300000" />
+    </task>
+    <task id="LOCAL-00001" summary="taller 11">
+      <created>1671065285557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671065285557</updated>
+    </task>
+    <task id="LOCAL-00002" summary="taller 13">
+      <created>1671292102322</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671292102322</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/proyecto_u2_pw_kc/node_modules/@vue/cli-plugin-unit-jest/generator/template/tests/unit/example.spec.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="taller 11" />
+    <MESSAGE value="taller 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="taller 13" />
+  </component>
+</project>
