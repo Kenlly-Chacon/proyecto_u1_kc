@@ -5,34 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9780cafc-d27d-467c-8b82-97171d4f294a" name="Changes" comment="taller 13">
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/.vscode/extensions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/assets/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/assets/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/assets/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/components/Contador.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/components/HelloWorld.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/components/TheWelcome.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/components/WelcomeItem.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/components/icons/IconCommunity.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/components/icons/IconDocumentation.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/components/icons/IconEcosystem.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/components/icons/IconSupport.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/components/icons/IconTooling.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos_u2_pw_kc/vite.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/tests/unit/example.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,28 +57,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Intel/Kenlly/2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Intel/Kenlly/2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Intel\Kenlly\2" />
