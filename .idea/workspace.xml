@@ -4,24 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9780cafc-d27d-467c-8b82-97171d4f294a" name="Changes" comment="taller 13">
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/jest.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/jsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/components/HelloWorld.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/tests/unit/example.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/vue.config.js" afterDir="false" />
+    <list default="true" id="284fe397-0640-410f-bd0e-93649d337147" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/components/Contador.vue" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/components/Contador.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +26,17 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="taller13" />
+        <entry key="$PROJECT_DIR$" value="taller14Correccion" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/proyecto_u2_kc/package.json" />
+    <dismissed value="$PROJECT_DIR$/proyectos_u2_pw_kc/package.json" />
   </component>
   <component name="ProjectId" id="2IvQRpTgt09pO13MkRj9RUgzf3p" />
   <component name="ProjectLevelVcsManager">
@@ -88,10 +78,25 @@
       <recent name="D:\Intel\Kenlly\2" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.Debug Application">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:5173">
       <method v="2" />
     </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/proyecto_u2_pw_kc/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
