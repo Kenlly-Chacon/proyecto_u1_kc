@@ -1,13 +1,18 @@
 <template>
-  <Pregunta/>
+  <img alt="Vue logo" src="./assets/logo.png">
+  <h1>Este es el componente principal!!!</h1>
+  <Contador titulo="Estudiante" v-bind:inicio="1"/>
+  <Contador titulo="Profesor" v-bind:inicio="2"/>
 </template>
 
 <script>
-import Pregunta from '/src/components/Pregunta.vue'
+
+import Contador from './components/Contador.vue'
 export default {
-  name: 'App',
+
+  name: 'AppContador',
   components: {
-    Pregunta
+    Contador
   }
 }
 </script>
