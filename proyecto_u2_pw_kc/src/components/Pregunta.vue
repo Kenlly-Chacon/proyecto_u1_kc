@@ -1,15 +1,15 @@
 <template>
   <h1>Pregunta </h1>
-  <img src="https://via.placeholder.com/250" alt="No se puede vizualizar">
+  <img v-if="img" v-bind:src="img">
   <div class="fondo-dark"></div>
 
   <div class="container">
-    <input type="text" placeholder="Hazme una pregunta">
+    <input v-model="question" type="text" placeholder="Hazme una pregunta">
     <p>Recuerda termnar con un signo de interrogacion (?)</p>
 
     <div>
-      <h2>Voy a pasar el año?</h2>
-      <h1>Si, no, Talvez...........</h1>
+      <h2>{{ question }}</h2>
+      <h1>{{respuesta}}</h1>
     </div>
 
   </div>
@@ -17,14 +17,53 @@
 
 <script>
 export default {
-  name: "Pregunta"
+  name: "Pregunta",
+  data() {
+    return {
+      question: '',
+      respuesta: null,
+      img: null
+    }
+  },
+  watch: {
+    question(value, oldValue) {
+      console.log(value)
+      console.log(oldValue)
+      if (!value.includes('?')) return
+        console.log('Vamos a consumir el API')
+      //Consumo del API
+      this.consumirAPI()
+    }
+  },
+  methods:{
+    async consumirAPI() {
+      this.respuesta='Pensando..'
+      const {answer,forced,image} = await fetch('https://yesno.wtf/api').then(result => result.json())
+      this.respuesta='Pensando...'
+      console.log(answer)
+      console.log(forced)
+      console.log(image)
+      this.respuesta=answer
+      this.img = image
+      console.log('image')
+      console.log(image)
+    }
+  }
+
 }
 </script>
 
 <style scoped>
-img {
+img, .fondo-dark {
   height: 100vh;
   width: 100vw;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+}
+
+.fondo-dark {
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 input {
@@ -35,16 +74,21 @@ input {
 }
 
 p {
-  color: red;
+  color: white;
   font-size: 20px;
   margin-top: 0px;
 }
 
-h1,h2 {
-  color: red;
+h1, h2 {
+  color: white;
 }
 
-h2{
+h2 {
   margin-top: 150px;
+}
+
+.container {
+  position: relative;
+  z-index: 99;
 }
 </style>
