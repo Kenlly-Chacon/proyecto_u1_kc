@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="219455ab-e868-4ce8-bc81-1c6abb5eaea1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/components/AppPregunta.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/components/PokemonImg.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/components/PokemonOpts.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/pages/PokemonPage.vue" afterDir="false" />
+    <list default="true" id="c58afa22-e91c-4eac-98b7-0cbdb3b23c31" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/js/funcionalidadOptsPokemon.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/components/PokemonImg.vue" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/components/PokemonImg.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/pages/PokemonPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/pages/PokemonPage.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,16 +19,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="taller17" />
+        <entry key="$PROJECT_DIR$" value="taller18" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,29 +49,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Intel/fin2/proyecto_u2_pw_kc/src/components",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Intel/fin2/proyecto_u2_pw_kc/src/components&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Intel\fin2\proyecto_u2_pw_kc\src\components" />

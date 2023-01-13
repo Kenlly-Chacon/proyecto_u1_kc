@@ -1,6 +1,6 @@
 <template>
   <h1>!Quien es este pokemon!</h1>
-  <PokemonImg/>
+  <PokemonImg :idPokemon="5" :mostrarPokemon="false"/>
   <PokemonOpts/>
 </template>
 
@@ -12,8 +12,7 @@ export default {
   components:{
     PokemonImg,
     PokemonOpts
-  }
-
+  },
 }
 </script>
 
