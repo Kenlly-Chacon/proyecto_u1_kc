@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c58afa22-e91c-4eac-98b7-0cbdb3b23c31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/js/funcionalidadOptsPokemon.js" afterDir="false" />
+    <list default="true" id="b1c07758-62ed-45fd-bbdc-dc73040e7103" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/components/Juego.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/img/negro.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/components/PokemonImg.vue" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/components/PokemonImg.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/pages/PokemonPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/pages/PokemonPage.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,15 +21,15 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="Vue Single File Component" />
         <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="taller18" />
+        <entry key="$PROJECT_DIR$" value="taller19" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,29 +50,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Intel/fin2/proyecto_u2_pw_kc/src/components&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Intel/fin2/proyecto_u2_pw_kc/src/components",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Intel\fin2\proyecto_u2_pw_kc\src\components" />
@@ -80,6 +81,7 @@
       <recent name="D:\Intel\Kenlly\2\proyecto_u2_kc\pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Intel\finalfinal\proyecto_u2_pw_kc\src\img" />
       <recent name="D:\Intel\Kenlly\2" />
     </key>
   </component>
@@ -106,7 +108,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9780cafc-d27d-467c-8b82-97171d4f294a" name="Changes" comment="" />
+      <changelist id="b1c07758-62ed-45fd-bbdc-dc73040e7103" name="Changes" comment="" />
       <created>1671059572330</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -129,6 +131,7 @@
       <workItem from="1671668579043" duration="451000" />
       <workItem from="1671669090116" duration="219000" />
       <workItem from="1671669414312" duration="300000" />
+      <workItem from="1674085235967" duration="3372000" />
     </task>
     <task id="LOCAL-00001" summary="taller 11">
       <created>1671065285557</created>

@@ -1,13 +1,16 @@
 <template>
-  <PokemonPage/>
+<!--  <PokemonPage/>-->
+  <Juego/>
 </template>
 
 <script>
-import PokemonPage from '/src/pages/PokemonPage.vue'
+// import PokemonPage from '/src/pages/PokemonPage.vue'
+import Juego from '/src/components/Juego.vue'
 export default {
   name: 'App',
   components: {
-    PokemonPage
+    // PokemonPage
+    Juego
   }
 }
 </script>
