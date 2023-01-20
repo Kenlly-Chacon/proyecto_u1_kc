@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1c07758-62ed-45fd-bbdc-dc73040e7103" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/components/Juego.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/img/negro.png" afterDir="false" />
+    <list default="true" id="b1c07758-62ed-45fd-bbdc-dc73040e7103" name="Changes" comment="taller 20">
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/img/congratulations.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/pages/PokemonPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/pages/PokemonPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/components/Juego.vue" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/components/Juego.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="taller19" />
+        <entry key="$PROJECT_DIR$" value="taller20" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,29 +48,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Intel/fin2/proyecto_u2_pw_kc/src/components",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "settings.sync",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Intel/fin2/proyecto_u2_pw_kc/src/components&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Intel\fin2\proyecto_u2_pw_kc\src\components" />
@@ -82,6 +80,7 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Intel\finalfinal\proyecto_u2_pw_kc\src\img" />
+      <recent name="D:\Intel\finalfinal\proyecto_u2_pw_kc\src\pages" />
       <recent name="D:\Intel\Kenlly\2" />
     </key>
   </component>
@@ -131,7 +130,9 @@
       <workItem from="1671668579043" duration="451000" />
       <workItem from="1671669090116" duration="219000" />
       <workItem from="1671669414312" duration="300000" />
-      <workItem from="1674085235967" duration="3372000" />
+      <workItem from="1674085235967" duration="3395000" />
+      <workItem from="1674169479458" duration="63000" />
+      <workItem from="1674169575983" duration="5796000" />
     </task>
     <task id="LOCAL-00001" summary="taller 11">
       <created>1671065285557</created>
@@ -147,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671292102322</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="taller 20">
+      <created>1674089249869</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674089249869</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +181,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="taller 11" />
     <MESSAGE value="taller 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="taller 13" />
+    <MESSAGE value="taller 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="taller 20" />
   </component>
 </project>
